@@ -7,4 +7,5 @@
  # rand (1..6)
 #end
 def roll
-  
+  [1..6].sample
+end
